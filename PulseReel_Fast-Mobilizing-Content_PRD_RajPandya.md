@@ -4,7 +4,7 @@ version: "v1.1 - Final · India Market"
 ---
 
 # PulseReel: Fast-Mobilizing Content Detection & Intervention
-### PRD v1.1: Final · India Market · Trust & Safety / Integrity · Owner: VP Product
+### PRD Final · India Market · Trust & Safety / Integrity · Owner: Product Manager
 ### Presented by Raj Pandya
 
 > **CONFIRMED BRIEF:** PulseReel is a short-video app with 60M Indian users aged 18–25. Its recommendation algorithm recently turned a single unverified "incident" reel into a nationwide protest movement within 72 hours, and government scrutiny of algorithmic amplification is rising. This PRD is grounded in real, current evidence (India's IT Amendment Rules, 2026; the 2018 Indian WhatsApp-lynchings precedent; documented platform incidents internationally) rather than invented facts; sourced throughout. What remains a placeholder: PulseReel has no real public brand kit, so the visual system used in this document (colors, tier badges) is my own design proposal, flagged as such, not an existing brand standard.
